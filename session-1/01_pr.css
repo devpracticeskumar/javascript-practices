@@ -1,0 +1,10 @@
+.childDiv1 {
+  border: 2px solid black;
+  border-radius: 11px;
+  padding: 11px;
+  margin: 11px;
+}
+* {
+  background-color: black;
+  color: white;
+}
